@@ -1,4 +1,4 @@
 # Robot Framwork for Simple API
 
 ### Run Robot
-`robot test-calculate.robot`
+`python3 -m robot test-calculate.robot`
